@@ -6,5 +6,6 @@ Hylé's issues for hackathons &amp; external contributions.
 
 ## 📎 Useful Links
 
-- 🌐 Hylé Website
-- 📚 Hylé Documentation
+- [Hylé website](https://hyle.eu)
+- [Hylé documentation](https://docs.hyle.eu/)
+- [Main repository](https://github.com/Hyle-org/hyle)
