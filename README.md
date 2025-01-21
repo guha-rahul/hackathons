@@ -11,6 +11,7 @@ Hylé's issues for hackathons &amp; external contributions.
 
 - [Hylé website](https://hyle.eu)
 - [Hylé documentation](https://docs.hyle.eu/)
+- [Hylé SDK README](https://github.com/Hyle-org/hyle/tree/main/crates/contract-sdk)
 - [Main repository](https://github.com/Hyle-org/hyle)
 
 ## Contribute
